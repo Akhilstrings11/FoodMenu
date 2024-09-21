@@ -1,0 +1,19 @@
+body{
+    background-image: url('src//backgrnd.jpg');
+}
+
+img{
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.bg{
+    background-color: orange;
+    height: 180px;
+}
+
+.orng{
+    background-color: orange;
+    padding: 3px 5px 3px 5px;
+    border-radius: 5px;
+}
